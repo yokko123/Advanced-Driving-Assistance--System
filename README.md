@@ -1,2 +1,2 @@
-# Advanced-Driving-Assistance--Syustem
+# Advanced-Driving-Assistance--System
 Thesis
